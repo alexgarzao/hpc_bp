@@ -1,13 +1,14 @@
 hpc_bp
 ======
 
-Modelo contendo dicas sobre as melhores práticas para computação de alto desempenho.
+HPCBP (High Performance Computing - Best practices) é um modelo contendo dicas sobre as melhores práticas 
+a serem adotadas em aplicações focadas na computação de alto desempenho.
 
-A ideia é criarmos, a partir das discussões e contribuições de todos, um modelo contendo 
-as melhores práticas para maximizar a eficiência de uso do hardware (CPU, memória, disco, rede, ...). 
-E, na medida do possível, deixarmos claro os pós e contras de cada abordagem.
+A ideia é criar, a partir das discussões e contribuições de todos, um modelo contendo 
+as melhores práticas para maximizar a eficiência de uso do hardware (CPU, memória, disco e rede). 
+E, na medida do possível, deixar claro os pós e contras de cada abordagem.
 
-A partir deste modelo nós teremos condições de criar um framework (C++) onde seja possível, 
+A partir deste modelo será possível construir um framework (C++) onde seja possível, 
 em poucas linhas de código, criar uma aplicação de alto desempenho contendo as funcionalidades 
 consideradas comuns a todas estas aplicações. 
 O que será considerado "funcionalidades comuns" também será em função dos nossos debates.
